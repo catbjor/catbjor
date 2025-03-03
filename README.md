@@ -1,7 +1,8 @@
 ## Hey, I'm Cathrine!
 
 🖥️ Digital Marketer<br/> 
-🌱 Currently learning Python<br/>
+🌱 Currently learning Data Analysis through Python, SQL, Excel and Power BI<br/>
+📫 Contact: catbjorhan@gmail.com 
 
 ..................................................................................................................
 
